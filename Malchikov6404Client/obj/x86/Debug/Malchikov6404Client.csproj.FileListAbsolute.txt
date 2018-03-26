@@ -1,0 +1,8 @@
+c:\users\danilius\documents\visual studio 2010\Projects\Malchikov6404Client\Malchikov6404Client\obj\x86\Debug\Malchikov6404Client.Client.resources
+c:\users\danilius\documents\visual studio 2010\Projects\Malchikov6404Client\Malchikov6404Client\obj\x86\Debug\Malchikov6404Client.Properties.Resources.resources
+c:\users\danilius\documents\visual studio 2010\Projects\Malchikov6404Client\Malchikov6404Client\obj\x86\Debug\Malchikov6404Client.csproj.GenerateResource.Cache
+c:\users\danilius\documents\visual studio 2010\Projects\Malchikov6404Client\Malchikov6404Client\bin\Debug\Malchikov6404Client.exe
+c:\users\danilius\documents\visual studio 2010\Projects\Malchikov6404Client\Malchikov6404Client\bin\Debug\Malchikov6404Client.pdb
+c:\users\danilius\documents\visual studio 2010\Projects\Malchikov6404Client\Malchikov6404Client\obj\x86\Debug\Malchikov6404Client.exe
+c:\users\danilius\documents\visual studio 2010\Projects\Malchikov6404Client\Malchikov6404Client\obj\x86\Debug\Malchikov6404Client.pdb
+C:\Users\Danilius\documents\visual studio 2010\Projects\Malchikov6404Client\Malchikov6404Client\obj\x86\Debug\Malchikov6404Client.csprojResolveAssemblyReference.cache
